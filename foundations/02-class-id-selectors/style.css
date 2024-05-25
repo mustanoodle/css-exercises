@@ -1,0 +1,21 @@
+/* styles.css */
+
+.odd_ones {
+  background-color: lightpink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.second_one {
+  color: blue;
+  font-size: 36px;
+}
+
+.large_one {
+  font-size: 24px;
+}
+
+.fourth_one {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
